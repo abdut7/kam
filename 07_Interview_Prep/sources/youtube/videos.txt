@@ -1,0 +1,30 @@
+# One YouTube URL per line. Blank lines and lines starting with # are ignored.
+# Exactly as supplied on 2026-11-04 (28 videos).
+https://www.youtube.com/watch?v=qEsJ9KEwPoY
+https://www.youtube.com/watch?v=wlhckQ7ISJY&pp=0gcJCSkMAYcqIYzv
+https://www.youtube.com/watch?v=1VvNayxTHoY
+https://www.youtube.com/watch?v=E57fMOzPppk
+https://www.youtube.com/watch?v=9HET6axUP_E
+https://www.youtube.com/watch?v=SCp4vXRDerY
+https://www.youtube.com/watch?v=qsycb-T0NUw&pp=0gcJCSkMAYcqIYzv
+https://www.youtube.com/watch?v=2CtmqdAibZU
+https://www.youtube.com/watch?v=VTPza0XFdyc
+https://www.youtube.com/watch?v=k3zBnDMV8qU&pp=0gcJCSkMAYcqIYzv
+https://www.youtube.com/watch?v=mOv4miOLakc&t=78s
+https://www.youtube.com/watch?v=GTDv0GUO7bw
+https://www.youtube.com/watch?v=7U_IXU632UU
+https://www.youtube.com/watch?v=K471DBTQ3Eg
+https://www.youtube.com/watch?v=IXnPZgY7m9c
+https://www.youtube.com/watch?v=EWIi7NhiEzs
+https://www.youtube.com/watch?v=hwETayCYaCk
+https://www.youtube.com/watch?v=Q2coo-yOvEc
+https://www.youtube.com/watch?v=LV9acAcHQFo
+https://www.youtube.com/watch?v=HMrYZ1yHESQ
+https://www.youtube.com/watch?v=on402jw0uwE&pp=0gcJCSkMAYcqIYzv
+https://www.youtube.com/watch?v=lxhhlv7qI-o
+https://www.youtube.com/watch?v=kexXRNFeqlA&t=12s
+https://www.youtube.com/watch?v=q3WgGLSakrY
+https://www.youtube.com/watch?v=5wbQdeTq6Fw
+https://www.youtube.com/watch?v=IXCt89c-Zqs
+https://www.youtube.com/watch?v=otHLhGBdoO0
+https://www.youtube.com/watch?v=XferBO-QX_c

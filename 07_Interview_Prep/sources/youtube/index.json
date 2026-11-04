@@ -1,0 +1,122 @@
+[
+  {
+    "id": "qEsJ9KEwPoY",
+    "url": "https://www.youtube.com/watch?v=qEsJ9KEwPoY",
+    "title": "How to Prepare for AI Interviews in 2026 — The Full Roadmap",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3DqEsJ9KEwPoY&q=EhD9o-ciCsPMAAIRdFD-_sbbGIaIrdcGIjDCY8n6UoUFGsr6MYCrgwKAw0ingplRDJjFQw07W1hmQyuM9kPAf__me7fmxlUjVGsyAnJSWgFDYIbBoq-klaCjpwE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "wlhckQ7ISJY",
+    "url": "https://www.youtube.com/watch?v=wlhckQ7ISJY&pp=0gcJCSkMAYcqIYzv",
+    "title": "Build a Production Pattern MCP Gateway with Docker - Agentic AI",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3DwlhckQ7ISJY&q=EhD9o-ciCsPMAAIRdFD-_sbbGImIrdcGIjCQmxHLm-jS1WET_UgWfbShx3k9dH_lS9sHXASB7RuXAL_IlhMzNw1JvN9mrHAJ808yAnJSWgFDYM6o36jBuZqRFA (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "1VvNayxTHoY",
+    "url": "https://www.youtube.com/watch?v=1VvNayxTHoY",
+    "title": "AI Agents Observability for Beginners: Your First Trace - AgentOps",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3D1VvNayxTHoY&q=EhD9o-ciCsPMAAIRdFD-_sbbGIqIrdcGIjBHOJElmZPG_zuf6A7fGkD2xnSZaIzaIXkKCznWdQPknhPWYBrr1GIAin3Mtm1-llAyAnJSWgFDYPnn5efv6_e01wE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "E57fMOzPppk",
+    "url": "https://www.youtube.com/watch?v=E57fMOzPppk",
+    "title": "Agentic AI Interview Questions and Answers — June 2026 (Part 2)",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3DE57fMOzPppk&q=EhD9o-ciCsPMAAIRdFD-_sbbGI2IrdcGIjA4ZesZTEipeF-4YOuOSQgFLL5f1iCLzx_iDDYYTsK4JDOvycZ9RSHUlCuVgqcF5VcyAnJSWgFDYKLtj67Fo524-wE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "9HET6axUP_E",
+    "url": "https://www.youtube.com/watch?v=9HET6axUP_E",
+    "title": "Agentic AI Survival Plan 2026 - People are Learning Wrong",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3D9HET6axUP_E&q=EhD9o-ciCsPMAAIRdFD-_sbbGI6IrdcGIjB95z00Y0aqhDq6UeE81Xv6iQgAhAV8cO8BSsoHicWVxysmXH_BSpMTAk1a1oqpK2QyAnJSWgFDYMSMzv_g377vJw (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "SCp4vXRDerY",
+    "url": "https://www.youtube.com/watch?v=SCp4vXRDerY",
+    "title": "Memory, Human Approval & Safety in AI Agents — Interview - Latest Interview Questions - June Part 3",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3DSCp4vXRDerY&q=EhD9o-ciCsPMAAIRdFD-_sbbGJCIrdcGIjA2INBSzbI0yg3hIMWRzPqz2OvpmA8SzEDRJHClJuJJQgBXHuyN8FGNy-bkefJ45FEyAnJSWgFDYJLQmJW8iPDF2AE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "qsycb-T0NUw",
+    "url": "https://www.youtube.com/watch?v=qsycb-T0NUw&pp=0gcJCSkMAYcqIYzv",
+    "title": "Why AI Agents Fail in Production: Silent Tool Errors",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dqsycb-T0NUw&q=EhD9o-ciCsPMAAIRdFD-_sbbGJKIrdcGIjAo2WciBFrpZIzx4OjQ6ylw3U-YeJKcH67JedRi2jtBwMYiGvxJlRrPZZhUxXKm4EYyAnJSWgFDYL-y7qm4gI7WUg (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "2CtmqdAibZU",
+    "url": "https://www.youtube.com/watch?v=2CtmqdAibZU",
+    "title": "Agentic AI Explained: The Complete 2026 System Builder Guide",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3D2CtmqdAibZU&q=EhD9o-ciCsPMAAIRdFD-_sbbGJOIrdcGIjBn_sLI6MBwnrDQ1PE3q6KyF6RaLkO32wAF7DwVTZWPuZJQLg3l4p718BNeUaUT60QyAnJSWgFDYJHC6aHBipTIVg (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "VTPza0XFdyc",
+    "url": "https://www.youtube.com/watch?v=VTPza0XFdyc",
+    "title": "How to Read an AI Engineer Job Description for Resume & Interview Prep",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3DVTPza0XFdyc&q=EhD9o-ciCsPMAAIRdFD-_sbbGJWIrdcGIjBTN51PAgzUVXqDkTbJphm6ilvMNJHmOXUBHc6AiLCL7oVDpDfb4zztkuWwWUUkSg0yAnJSWgFDYJ_D_uDyl4W9vwE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "k3zBnDMV8qU",
+    "url": "https://www.youtube.com/watch?v=k3zBnDMV8qU&pp=0gcJCSkMAYcqIYzv",
+    "title": "RAG Explained: Why Every AI Builder Gets This Wrong",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dk3zBnDMV8qU&q=EhD9o-ciCsPMAAIRdFD-_sbbGJeIrdcGIjD25XiiPztGEJvKevnmgThtKyJdxiDirxBeiq1_7p0m03IOV9odWBOgFKuhiaeudEcyAnJSWgFDYL_JueLWiMfy0QE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "mOv4miOLakc",
+    "url": "https://www.youtube.com/watch?v=mOv4miOLakc&t=78s",
+    "title": "5 Days of Agentic AI 2026 - Day 1 - Big Picture Made Simple",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3DmOv4miOLakc&q=EhD9o-ciCsPMAAIRdFD-_sbbGJiIrdcGIjChKstl2xQHGgzg6eQN8Sm-4QX_ITQJbGpxR9a6pVrrnn8Ps3rJks-78OA7pviB78syAnJSWgFDYMb19-CYqabfqgE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "GTDv0GUO7bw",
+    "url": "https://www.youtube.com/watch?v=GTDv0GUO7bw",
+    "title": "Agentic AI interview Questions Part 4",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3DGTDv0GUO7bw&q=EhD9o-ciCsPMAAIRdFD-_sbbGJqIrdcGIjCGMxMwotvUwG9p6w__Drm1rd6tgHgBA9EJRwLifATxwvSKsFts_gwjOKIL5xWGS5AyAnJSWgFDYKCb3Le65q-t4wE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "7U_IXU632UU",
+    "url": "https://www.youtube.com/watch?v=7U_IXU632UU",
+    "title": "5 Days of Agentic AI 2026 - Day 2 - How Agentic AI Works?",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3D7U_IXU632UU&q=EhD9o-ciCsPMAAIRdFD-_sbbGJyIrdcGIjCLSkZk4gedLO3XrCBXLFohWZvctTD3F4JsmVPZQoqfYQEqHcb_piFd0rmIt81lPOYyAnJSWgFDYILuuZeWvKTkvQE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "K471DBTQ3Eg",
+    "url": "https://www.youtube.com/watch?v=K471DBTQ3Eg",
+    "title": "5 Days of Agentic AI 2026 - Day 3 - Building Blocks of Agentic AI",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3DK471DBTQ3Eg&q=EhD9o-ciCsPMAAIRdFD-_sbbGJ6IrdcGIjDqzk03O4-Y1iqEHmZRik5Dqc9TkRkWU6g3KwX6xWd9YvbJkKRI5tD5yeXVyn8ELcAyAnJSWgFDYO6i3oXr_szGqAE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  },
+  {
+    "id": "IXnPZgY7m9c",
+    "url": "https://www.youtube.com/watch?v=IXnPZgY7m9c",
+    "title": "5 Days of Agentic AI 2026 - Day 4 - Where Agentic AI Is Actually Used in Companies (Roles & Careers)",
+    "channel": "Manifold AI Learning",
+    "status": "failed",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://www.youtube.com/watch%3Fv%3DIXnPZgY7m9c&q=EhD9o-ciCsPMAAIRdFD-_sbbGJ-IrdcGIjClSo3ioThdShex3aXY7rqhKhbFAbKTghWpGpQNxhmPmrjyXnWIXcEOxTmHJalEse8yAnJSWgFDYPfwhsbe18q8Zg (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+  }
+]
