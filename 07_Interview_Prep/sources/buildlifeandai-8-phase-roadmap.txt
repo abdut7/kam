@@ -1,0 +1,139 @@
+PAGES: 10
+
+===== PAGE 1 =====
+AI ENGINEER ROADMAP · 2026
+You don’t need a fancy
+PhD, master’s, or
+endless courses to
+become an AI
+engineer.
+You need this disciplined 8-phase approach.
+Swipe →
+Save this 🔖
+@BuildLifeAndAI
+the disciplined path
+
+
+===== PAGE 2 =====
+PHASE 1 OF 8
+1
+Python & engineering
+fundamentals
+→Clean code, Git, testing — the boring skills that
+separate engineers from hobbyists
+→Calling, streaming & error-handling an LLM API
+→Data structures + async: what quietly decides your
+app's speed
+@BuildLifeAndAI
+swipe →
+
+
+===== PAGE 3 =====
+PHASE 2 OF 8
+2
+Machine learning & deep
+learning
+→What actually happens inside a neural network (“it
+learns” is misleading)
+→Training vs inference, overfitting & the bias–
+variance tradeoff
+→Just enough math to be dangerous — no PhD
+required
+@BuildLifeAndAI
+swipe →
+
+
+===== PAGE 4 =====
+PHASE 3 OF 8
+3
+LLMs
+→Tokens & embeddings — why models are
+probabilistic, not truthful
+→Prompting like an engineer: role, rules, format,
+few-shot
+→Context windows & the “lost in the middle” problem
+@BuildLifeAndAI
+swipe →
+
+
+===== PAGE 5 =====
+PHASE 4 OF 8
+4
+RAG
+→Give the model your data: embeddings + vector
+search
+→Chunking strategies that make or break retrieval
+→Why most “hallucinations” are actually retrieval
+bugs
+@BuildLifeAndAI
+swipe →
+
+
+===== PAGE 6 =====
+PHASE 5 OF 8
+5
+Agents
+→Tools + memory: how an LLM goes from talking to
+doing
+→Why your agent forgets — state lives in your
+architecture, not the model
+→Multi-step planning — and when NOT to use an
+agent
+@BuildLifeAndAI
+swipe →
+
+
+===== PAGE 7 =====
+PHASE 6 OF 8
+6
+Production deployment
+→Cost & latency: prompt caching + right-sizing the
+model
+→Evaluation & guardrails: catch bad outputs before
+users do
+→Monitoring & versioning: shipping without breaking
+things
+@BuildLifeAndAI
+swipe →
+
+
+===== PAGE 8 =====
+PHASE 7 OF 8
+7
+Enterprise AI
+→Security, privacy & PII — where “works on my
+laptop” isn't enough
+→Governance, audit trails & human-in-the-loop
+→Integrating with legacy systems — and where the
+real jobs are
+@BuildLifeAndAI
+swipe →
+
+
+===== PAGE 9 =====
+PHASE 8 OF 8
+8
+Build in public & keep
+learning (recommended capstone)
+→2–3 end-to-end projects beat any certificate
+→Write about what broke — learning in public IS the
+portfolio
+→A weekly habit to stay current without burning out
+@BuildLifeAndAI
+swipe →
+
+
+===== PAGE 10 =====
+START TODAY
+Start at Phase 1. One
+phase at a time.
+You don’t need permission or a degree — you
+need reps. Build something small at every
+phase.
+→Follow @BuildLifeAndAI — I break down
+each phase
+🔖Save this roadmap
+👇Which phase are you on right now?
+@BuildLifeAndAI
+2026 roadmap
+

@@ -1,0 +1,170 @@
+# Questions shown as 'Learn first' background reading, not as interview questions.
+# Format: track<TAB>exact question title. Edit to move a question between the two.
+arch	How does the Express middleware stack actually work, and why does order matter?
+arch	How does NestJS dependency injection work under the hood, and what are provider scopes?
+arch	What do Uvicorn, Gunicorn, Starlette, Pydantic and FastAPI each do?
+arch	Compare the Node.js and FastAPI execution models.
+arch	How does self-attention work, step by step, and why divide by sqrt(d_k)?
+arch	Why do transformers need positional information, and what does RoPE do?
+arch	What is the role of the feed-forward layer, residual connections and normalization?
+arch	What is a mixture of experts layer, and what does it change for training and serving?
+arch	What is Jev, and how is a decision model different from a generative LLM?
+design	Explain the Open/Closed Principle with an example from a real service.
+design	What is the Liskov Substitution Principle, and how can a subclass break it even when the types compile?
+design	What is the Interface Segregation Principle, and how does it apply in TypeScript or Python?
+design	What is the Dependency Inversion Principle, and how is it different from dependency injection?
+design	What is the Law of Demeter, and what does tell-don't-ask look like in code?
+design	Factory Method vs Abstract Factory: what is the difference? Show a real example.
+design	What is the Prototype pattern, and where does it appear in JavaScript?
+design	How does dependency injection relate to creational patterns?
+design	What is the Adapter pattern? Give an example of wrapping third-party APIs.
+design	What is the Decorator pattern, and how is it different from TypeScript decorators and Express middleware?
+design	What is the Proxy pattern? Show caching, access-control and lazy-loading proxies, and JavaScript's Proxy object.
+design	What is the Bridge pattern, and when does it pay off?
+design	What is the Flyweight pattern, and where does it matter in practice?
+design	What is the Strategy pattern? Show a real example.
+design	Observer vs pub/sub: what is the difference, and how does Node's EventEmitter fit?
+design	What is the Command pattern, and where is it useful?
+design	What is Chain of Responsibility, and how do Express middleware and NestJS guards implement it?
+design	What is the Repository pattern, and when is it a useless layer over an ORM?
+design	What is Unit of Work, and how do Prisma, TypeORM and SQLAlchemy sessions implement it?
+design	How do dependency injection and IoC containers work, and what does NestJS add over manual wiring?
+design	What is the Specification pattern, and when is it worth it?
+backend	What is a B-tree index and how does it work internally?
+backend	What is the difference between a clustered and non-clustered index?
+backend	What is a composite index? Explain the left-prefix rule.
+backend	What is a covering index?
+backend	What is index cardinality and why does it matter for query planning?
+backend	How does an index affect INSERT, UPDATE, and DELETE performance?
+backend	What are ACID properties? Explain each one with a real example.
+backend	What are the 4 isolation levels? What problem does each one prevent?
+backend	What is a dirty read, phantom read, and non-repeatable read?
+backend	What is the difference between optimistic and pessimistic locking?
+backend	What is a two-phase commit and what problem does it solve?
+backend	What is a race condition? Give a real backend example.
+backend	What is the difference between concurrency and parallelism?
+backend	How does Node.js handle concurrent requests without multiple threads?
+backend	What is an atomic operation? Why does it matter for counters?
+backend	What is the thundering herd problem in the context of concurrency?
+backend	Explain the four main caching strategies and when to use each.
+backend	What is cache invalidation and why is it considered one of the hardest problems in CS?
+backend	What is the difference between a local cache and a distributed cache?
+backend	What is a CDN and how is it different from an application-level cache?
+backend	What is idempotency? Why does it matter for APIs?
+backend	What is the difference between idempotency and exactly-once delivery?
+backend	What is the difference between a message queue and pub/sub?
+backend	Explain at-most-once, at-least-once, and exactly-once delivery.
+backend	What is a dead letter queue and when does a message end up there?
+backend	What is backpressure and how do message queues help?
+backend	What is a consumer group in Kafka and how does it enable scaling?
+backend	What is the difference between Kafka and RabbitMQ?
+backend	What is the CAP theorem? Give a real example of a CP and an AP system.
+backend	What is eventual consistency? Give a real-world example of when it's acceptable.
+backend	What is consistent hashing and why is it used?
+backend	What is a split-brain problem?
+backend	What is a distributed lock and what are its failure modes?
+backend	What is the two-generals problem and why does it matter?
+backend	What is a heartbeat in distributed systems?
+backend	What is the difference between a service mesh and a load balancer?
+backend	What is cursor-based pagination and why is it better than offset?
+backend	What is HATEOAS and is it worth implementing?
+backend	What is database normalisation? What are 1NF, 2NF, 3NF?
+backend	What is database sharding? What problems does it introduce?
+backend	What is connection pooling and what happens without it?
+backend	What is the difference between a metric, a log, and a trace?
+backend	Explain the difference between CORS and CSRF. If my API sets CORS headers correctly, am I protected against CSRF?
+frontend	What is reconciliation, and why did React need Fiber to do it well?
+frontend	Why does React insist on keys, and what actually goes wrong with index keys?
+frontend	Explain concurrent rendering. What does "interruptible" mean in practice?
+frontend	What does the React Compiler do, and does it make memo and useMemo obsolete?
+frontend	Explain the full lifecycle of a useEffect: when it runs, when cleanup runs, and how useLayoutEffect differs.
+frontend	What are the legitimate uses of useRef beyond grabbing a DOM node?
+frontend	What is normalized state, when is it worth it, and how does derived state fit in?
+frontend	How does list virtualization work, and when is it the wrong answer?
+frontend	Explain LCP, INP, and CLS, and what moves each one in a React application.
+frontend	Explain stale-while-revalidate and where it appears in a frontend stack.
+frontend	What are React Server Components, and what problem do they solve that SSR did not?
+frontend	How do discriminated unions improve state and props modelling in React?
+frontend	What does `satisfies` do that `as` and type annotations do not?
+ai	What is a token, and why should an application engineer care about tokenization?
+ai	What is a knowledge cutoff, and how do multimodal inputs change the engineering?
+ai	Explain HNSW and IVF indexes. What are the knobs and how do they trade off?
+ai	What is hybrid search, and how does reciprocal rank fusion work?
+ai	What is query rewriting, and what is HyDE?
+ai	What is Graph RAG, when is it worth the cost, and when is it a distraction?
+ai	What are context precision and faithfulness, and how do RAGAS-style metrics work?
+ai	What does least privilege mean for an agent's tools?
+ai	What are offline and online metrics for a ranking model, and why can they disagree?
+agents	What is the difference between an agent and a workflow, and why does the distinction matter in practice?
+agents	What is ReAct, and how does it map onto today's tool-calling APIs?
+agents	Explain parallelization: sectioning versus voting, with a real example of each.
+agents	What is context engineering, and how is it different from prompt engineering?
+agents	Explain progressive disclosure and just-in-time retrieval versus pre-loading context.
+agents	What is the difference between short-term and long-term memory in an agent, and what are episodic, semantic and procedural memory?
+agents	Explain checkpointing and resumability. How does LangGraph implement it?
+agents	What are self-verification steps and deterministic guardrails, and where do they sit relative to the model?
+agents	Compare supervisor, hierarchical and swarm topologies.
+agents	How do handoffs work mechanically in the OpenAI Agents SDK and in LangGraph?
+agents	Compare LangGraph, the OpenAI Agents SDK, the Claude Agent SDK, CrewAI, AutoGen and Google ADK.
+agents	Explain the MCP architecture and why the protocol exists.
+agents	Compare the stdio and Streamable HTTP transports and walk through the lifecycle.
+agents	How does authentication work for remote MCP servers?
+agents	What is durable execution and how does it apply to agents?
+agents	Compare a cascaded STT, LLM, TTS pipeline with a speech-to-speech model.
+agents	How does turn detection work, and what are the trade-offs between silence-based and semantic approaches?
+agents	How do tool calls work during a voice conversation without awkward silence?
+agents	How do multimodal inputs fit into an agent, and how does LiveKit-style infrastructure work conceptually?
+inference	What is disaggregated prefill/decode serving and when is it worth it? [Advanced]
+inference	Why is the decode phase memory-bandwidth bound, and what does that imply for scaling throughput?
+inference	Explain PagedAttention and why it mattered so much.
+inference	What is continuous batching, and how is it different from static or dynamic batching?
+inference	Explain the difference between FP16, BF16, FP8 and INT8, and when each one is used.
+inference	What is the difference between weight-only and weight-and-activation quantization, and which phases of inference does each one speed up?
+inference	What is KV cache quantization, and what does it trade?
+inference	Explain speculative decoding. When does it help and when does it hurt?
+inference	How do Medusa and EAGLE differ from using a separate draft model?
+inference	What is prefix caching inside the engine, and how should it change the way I structure prompts?
+inference	What does FlashAttention actually do, and does it help decode?
+inference	What is special about serving a Mixture of Experts model?
+inference	What is cache-affinity routing, and when does it beat spreading load evenly?
+inference	What is semantic caching, and what is its biggest risk?
+inference	Explain distillation to a small model as a cost strategy. What are the risks?
+finetuning	What does fine-tuning change well, and what does it change badly?
+finetuning	Explain in plain terms what happens inside a language model when it predicts the next token.
+finetuning	What is a loss function, and what does gradient descent actually do?
+finetuning	What is the difference between pretraining, supervised fine-tuning and preference tuning?
+finetuning	Why does training need so much more memory than inference, and where does it go?
+finetuning	Why is full fine-tuning an 8B model expensive? Give me the concrete numbers.
+finetuning	Explain how LoRA works. What do rank and alpha mean?
+finetuning	What does QLoRA add on top of LoRA, and why does it work?
+finetuning	What is a chat template and why does it matter so much for fine-tuning?
+finetuning	Explain RLHF at a high level. What is a reward model and why was PPO used?
+finetuning	What is DPO, and why has it largely replaced PPO for product teams?
+finetuning	What is GRPO, and what does "reinforcement learning with verifiable rewards" mean?
+finetuning	What is the difference between hard-label and soft-label distillation, and when does each apply?
+finetuning	What are prompt tuning, prefix tuning and P-tuning, and why are they used less today?
+llmops	What do CI, CD and CT mean in MLOps, and what does each one actually run?
+llmops	What does an experiment tracker record, and why is a shared spreadsheet not enough?
+llmops	What is a feature store, what problem does it solve, and when is it overkill?
+llmops	What is the difference between offline and online metrics for an LLM feature, and how do they disagree?
+llmops	Define trace, span and generation, and show how a RAG request maps onto them.
+llmops	What does AIOps mean, and how is it different from MLOps and LLMOps?
+llmops	What is platform engineering, and what would an internal AI platform give product teams?
+devops	What does a Dockerfile HEALTHCHECK do, and why does Kubernetes ignore it?
+devops	How does graceful shutdown differ for a Python FastAPI service and for a queue worker such as Celery?
+devops	What is the PID 1 and zombie process problem in containers, and how do a proper init and a read-only filesystem fit into hardening?
+devops	Explain the Service types and trace a request from a browser through an Ingress to a pod.
+devops	How does persistent storage work in Kubernetes, and what does it imply for running something like Postgres or sharing model files?
+devops	Explain GitOps with Argo CD or Flux: how does a deploy flow end to end, and what are the failure modes?
+devops	What is immutable infrastructure, and how does it relate to containers and infrastructure as code?
+devops	What is the difference between L4 and L7 load balancing, and why does it matter for gRPC, WebSockets and keep-alive connections?
+devops	Explain SLIs, SLOs and error budgets with numbers, and how they change engineering decisions.
+cloud	Explain the shared responsibility model with concrete examples for EC2, RDS and Lambda.
+cloud	What does multi-cloud look like in practice, and when is it a mistake?
+cloud	What is an IAM role, how does AssumeRole work, and why are roles preferred over access keys?
+cloud	How does a pod on EKS get AWS credentials? Compare IRSA with EKS Pod Identity.
+cloud	Explain envelope encryption with KMS. Why not just call kms:Encrypt on the data?
+cloud	How does an Auto Scaling group work end to end, and what do lifecycle hooks and warm pools solve?
+cloud	What are Lambda's hard limits, and what exactly happens during a cold start?
+cloud	Compare the invocation models: a synchronous API call, an S3 event, and an SQS trigger. How do retries differ, and what is a partial batch response?
+cloud	Define RTO and RPO, then compare backup and restore, pilot light, warm standby and active-active. What does each cost and when is each appropriate?

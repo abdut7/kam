@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "atlas-static",
+      "runtimeExecutable": "/Users/abdurahman/.local/share/fnm/node-versions/v24.21.0/installation/bin/node",
+      "runtimeArgs": [
+        "/Users/abdurahman/Desktop/Kam h/07_Interview_Prep/build/serve.mjs"
+      ],
+      "port": 5173
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Company-site applications (user-supplied links) — 2026-10-26
+
+User asked (2026-10-26) to apply on four company career sites. Status after the first pass: **0 submitted, all 4 blocked** (details below).
+
+| # | Company / role | Link | Resume to use | Status | What is needed |
+|---|---|---|---|---|---|
+| 1 | Aziro — 9698_Sr. Full Stack Engineer (req 5175, Bangalore hybrid, Node/TS/React/AWS). Other fits on the same board: 4998 AI Engineer (Python, GenAI/LLMs), 5523 9807_AI ML Engineer, 5311 9788_Sr. Node JS Developer, 5489 Senior Backend Engineer (NestJS, Chennai) | https://aziro.mynexthire.com/employer/jobs | AI Full Stack (5175, 5311, 5489); AI Engineer (4998, 5523) | BLOCKED — submit returned "Your name doesn't match our existing record for the entered Email" (tried Abdurahiman and Abdurahman + Thommangadan; stopped, not guessing against an identity check) | Exact name Aziro already holds for abdurahmant7@gmail.com (an earlier application/recruiter record) |
+| 2 | Deltek — AI Solutions Security Engineer (11308BR, India-Bangalore Remote) | https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25397&siteid=5259&PageType=JobDetails&jobid=622669#jobDetails=623570_5259 | AI Engineer | PARTIAL — guest apply works ("Skip sign in"), résumé uploaded, name/email/phone/city/state auto-filled; NOT submitted | Address line 1 and Zip/PIN (required; not invented). Role is AI-security heavy (OWASP LLM, red teaming) — weak fit, user's call |
+| 3 | AMD — AI Solution Engineer – Agentic AI (93585, Bangalore) | https://careers.amd.com/careers-home/jobs/93585?lang=en-us | AI Engineer | BLOCKED — iCIMS apply needs an account (email + password) | User signs in / creates the iCIMS account in the browser pane, then I fill the form |
+| 4 | Nasdaq — Specialist, AI Engineering and Automation (R0026900, Bangalore) | https://nasdaq.wd1.myworkdayjobs.com/en-US/global_external_site/job/India---Bangalore---Karnataka/Specialist--AI-Engineering-and-Automation_R0026900 | AI Engineer | BLOCKED — Workday step 1 is "Create Account / Sign In" | User signs in / creates the Workday account, then I fill the form |
+
+Standard answers if/when forms are filled: Bengaluru; +91 79073 82644; current 24 LPA (INR 2,400,000) → expected 28 LPA (INR 2,800,000); notice 15 days (immediate); total/relevant experience 7.5 yrs; no sponsorship needed; required privacy consent ticked, marketing declined.

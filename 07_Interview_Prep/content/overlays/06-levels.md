@@ -1,0 +1,8 @@
+## When to Fine-tune [Basics]
+## ML & Training Fundamentals for LLMs [Basics]
+## PEFT: LoRA and QLoRA [Core]
+## Data Engineering for Fine-tuning [Core]
+## Preference Optimization & RL Intuition [Advanced]
+## Tooling & Infrastructure [Core]
+## Evaluating & Shipping a Fine-tuned Model [Core]
+## Small Language Models & Distillation [Advanced]

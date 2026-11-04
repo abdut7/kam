@@ -1,0 +1,7 @@
+{
+  "name": "resume-builder",
+  "private": true,
+  "description": "Builds India/UAE x Full Stack/AI Engineer resumes (DOCX + PDF) from content.js",
+  "scripts": { "build": "node build.js" },
+  "dependencies": { "docx": "^9.5.0" }
+}
